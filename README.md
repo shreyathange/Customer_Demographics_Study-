@@ -1,7 +1,7 @@
-# Weather Pattern Analysis
+# Customer Demographics Study
 
 ## Project Overview
-This project analyzes weather data to identify temperature and rainfall patterns.
+This project analyzes customer demographic data to understand customer characteristics based on Age, Gender, and City.
 
 ## Tools Used
 - Python
@@ -10,24 +10,27 @@ This project analyzes weather data to identify temperature and rainfall patterns
 - Seaborn
 - Jupyter Notebook
 
-## Dataset
-The dataset contains:
-- Day
-- Temperature
-- Rainfall
+## Dataset Features
+- Customer ID
+- Age
+- Gender
+- City
 
 ## Analysis Performed
-- Average Temperature Analysis
-- Temperature Trend Analysis
-- Rainfall Analysis
+- Average Age Analysis
+- Gender Distribution Analysis
+- City-wise Customer Analysis
 - Data Visualization
 
 ## Visualizations
-- Line Chart for Temperature Trend
-- Bar Chart for Rainfall Analysis
+- Gender Distribution Pie Chart
+- City-wise Customer Bar Chart
+
+## Key Findings
+- Average customer age was 29.2 years.
+- Male and Female customers were equally distributed.
+- Mumbai had the highest number of customers.
+- Nashik had the lowest number of customers.
 
 ## Conclusion
-- Average temperature was 33.7°C.
-- Highest temperature was 37°C.
-- Maximum rainfall occurred on Day 6.
-- Temperature showed an increasing trend.
+Customer demographic analysis helps businesses understand their target audience and make better marketing decisions.
